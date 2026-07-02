@@ -1,2 +1,4 @@
 HxwkiClicker-*.exe filter=lfs diff=lfs merge=lfs -text
 HxwkiClicker-Latest.exe filter=lfs diff=lfs merge=lfs -text
+HxwkiClickerSetup-4.9.16.exe filter=lfs diff=lfs merge=lfs -text
+HxwkiClickerSetup-Latest.exe filter=lfs diff=lfs merge=lfs -text
